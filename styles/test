@@ -1,0 +1,83 @@
+<!-- <form id="nav-search-bar-form" accept-charset="utf-8" action="/s/ref=nb_sb_noss" class="nav-searchbar nav-progressive-attribute" method="GET" name="site-search" role="search">
+      <div id="nav-search-bar-internationalization-key" class="nav-progressive-content">
+        <input type="hidden" name="__mk_fr_FR" value="ÅMÅŽÕÑ">
+      </div>
+
+    <div class="nav-left">
+      <div id="nav-search-dropdown-card">
+        
+  <div class="nav-search-scope nav-sprite">
+    <div class="nav-search-facade" data-value="search-alias=aps">
+      <span id="nav-search-label-id" class="nav-search-label nav-progressive-content" style="width: auto;">Toutes nos catégories</span>
+      <i class="nav-icon"></i>
+    </div>
+    <label id="searchDropdownDescription" for="searchDropdownBox" class="nav-progressive-attribute" style="display:none">Sélectionnez la section dans laquelle vous souhaitez faire votre recherche.</label>
+    <select aria-describedby="searchDropdownDescription" class="nav-search-dropdown searchSelect nav-progressive-attrubute nav-progressive-search-dropdown" data-nav-digest="5BdQo+Dk8w2rmT5p0TVwHbWGXG4=" data-nav-selected="0" id="searchDropdownBox" name="url" style="display: block; top: 2.5px;" tabindex="0" title="Rechercher dans">
+        <option selected="selected" value="search-alias=aps">Toutes nos catégories</option>
+        <option value="search-alias=alexa-skills">Alexa Skills</option>
+        <option value="search-alias=amazon-global-store">Amazon Global Store</option>
+        <option value="search-alias=warehouse-deals">Amazon Seconde main</option>
+        <option value="search-alias=pets">Animalerie</option>
+        <option value="search-alias=amazon-devices">Appareils Amazon</option>
+        <option value="search-alias=mobile-apps">Applis &amp; Jeux</option>
+        <option value="search-alias=automotive">Auto et Moto</option>
+        <option value="search-alias=fashion-luggage">Bagages et accessoires de voyage</option>
+        <option value="search-alias=beauty">Beauté et Parfum</option>
+        <option value="search-alias=luxury-beauty">Beauté Premium</option>
+        <option value="search-alias=gift-cards">Boutique chèques-cadeaux</option>
+        <option value="search-alias=digital-text">Boutique Kindle</option>
+        <option value="search-alias=diy">Bricolage</option>
+        <option value="search-alias=baby">Bébés &amp; Puériculture</option>
+        <option value="search-alias=kitchen">Cuisine &amp; Maison</option>
+        <option value="search-alias=dvd">DVD &amp; Blu-ray</option>
+        <option value="search-alias=grocery">Epicerie</option>
+        <option value="search-alias=office-products">Fournitures de bureau</option>
+        <option value="search-alias=appliances">Gros électroménager</option>
+        <option value="search-alias=handmade">Handmade</option>
+        <option value="search-alias=electronics">High-Tech</option>
+        <option value="search-alias=hpc">Hygiène et Santé</option>
+        <option value="search-alias=computers">Informatique</option>
+        <option value="search-alias=mi">Instruments de musique &amp; Sono</option>
+        <option value="search-alias=garden">Jardin</option>
+        <option value="search-alias=toys">Jeux et Jouets</option>
+        <option value="search-alias=videogames">Jeux vidéo</option>
+        <option value="search-alias=stripbooks">Livres</option>
+        <option value="search-alias=audible">Livres audio Audible</option>
+        <option value="search-alias=software">Logiciels</option>
+        <option value="search-alias=lighting">Luminaires et Eclairage</option>
+        <option value="search-alias=luxury">Luxury Stores</option>
+        <option value="search-alias=fashion">Mode</option>
+        <option value="search-alias=fashion-womens">&nbsp;&nbsp;&nbsp;Femme</option>
+        <option value="search-alias=fashion-mens">&nbsp;&nbsp;&nbsp;Homme</option>
+        <option value="search-alias=fashion-girls">&nbsp;&nbsp;&nbsp;Fille</option>
+        <option value="search-alias=fashion-boys">&nbsp;&nbsp;&nbsp;Garçon</option>
+        <option value="search-alias=fashion-baby">&nbsp;&nbsp;&nbsp;Bébé</option>
+        <option value="search-alias=under-ten-dollars">Moins de 10€</option>
+        <option value="search-alias=popular">Musique : CD &amp; Vinyles</option>
+        <option value="search-alias=classical">Musique classique</option>
+        <option value="search-alias=instant-video">Prime Video</option>
+        <option value="search-alias=specialty-aps-sns">Prévoyez et Économisez</option>
+        <option value="search-alias=industrial">Secteur industriel et scientifique</option>
+        <option value="search-alias=sports">Sports et loisirs</option>
+        <option value="search-alias=digital-music">Téléchargement de musique</option>
+        <option value="search-alias=todays-deals">Ventes Flash</option>
+    </select>
+  </div>
+
+      </div>
+    </div>
+    <div class="nav-fill">
+      <div class="nav-search-field ">
+        <label for="twotabsearchtextbox" style="display: none;">Rechercher Amazon.fr</label>
+        <input type="text" id="twotabsearchtextbox" value="" name="field-keywords" autocomplete="off" placeholder="Rechercher Amazon.fr" class="nav-input nav-progressive-attribute" dir="auto" tabindex="0" aria-label="Rechercher Amazon.fr" spellcheck="false">
+      </div>
+      <div id="nav-iss-attach"></div>
+    </div>
+    <div class="nav-right">
+      <div class="nav-search-submit nav-sprite">
+        <span id="nav-search-submit-text" class="nav-search-submit-text nav-sprite nav-progressive-attribute" aria-label="Go">
+          <input id="nav-search-submit-button" type="submit" class="nav-input nav-progressive-attribute" value="Go" tabindex="0">
+        </span>
+      </div>
+    </div>
+  <input type="hidden" id="isscrid" name="crid" value="2VBH265RET45R"><input type="hidden" id="issprefix" name="sprefix" value=",aps,1532"></form> -->

@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+$blue: #00AEEF ;
+$red: #ED1C24 ;
+$grey: #D1D3D4 ;
+$padding-x: 100px ;
+$small-padding-x: 10px ;
+$title-size: 30px ;
+$text-size: 18px ;
+$title-font: "Bebas Neue", sans-serif;
+$text-font: "Poppins", sans-serif;
+
+@media (min-width: 992px) {
+  $title-size: 20px ;
+  $text-size: 18px ;
+}
+
+body {
+  font-family: $text-font;
+}
+
+main {
+  height: 100dvh;
+  background-image: url('./../images/hero-bg.jpg');
+  // background-size: cover;
+  background-attachment: fixed;
+  
+  @media (min-width: 992px) {
+    background-size: 100% 100%;
+  }
+}
